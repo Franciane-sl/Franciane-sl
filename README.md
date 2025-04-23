@@ -31,18 +31,35 @@ Meu objetivo é construir sistemas escaláveis e eficientes que impactem positiv
 ---
 
 ## 💼 Projetos em destaque
-**(Em construção)**
+[API REST de Ações Sustentaveis](https://github.com/Franciane-sl/ExercicioM01S09)
 
-Em breve, você poderá ver mais sobre meu trabalho aqui!
+
+[API REST Pokedex](https://github.com/Franciane-sl/ExercicioM01S08)
+
+
+[API CRUD para Gerenciamento de Estudantes](https://github.com/Franciane-sl/ExercicioM01S07)
+
+[Mini Projeto - Sistema de Gestão para Projetos Sustentaveis](Sistema_de_gestao_de_projetos_sustentaveis)
+
 
 ---
 
 ## 📫 Vamos nos conectar!
 
-- **LinkedIn**: [https://www.linkedin.com/in/franciane-schier-63b885342/](#)
-- **E-mail**: franschierl@gmail.com
-- **GitHub**: [github.com/Franciane-sl](https://github.com/Franciane-sl)
-- **Facebook**: [https://www.facebook.com/franciane.schierl/](#)
+- <p align="left">
+  <a href="https://www.linkedin.com/in/franciane-schier-63b885342/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:franschierl@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Franciane-sl" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/franciane.schierl/" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 ---
 
