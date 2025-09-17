@@ -35,11 +35,7 @@ Meu objetivo é **criar soluções inovadoras** que unam tecnologia e impacto po
 ---
 
 ## 💼 Projetos em destaque
-- 🌱 **API REST de Ações Sustentáveis**  
-- 🎮 **API REST Pokedex**  
-- 📝 **API CRUD para Gerenciamento de Estudantes**  
-- 🗂️ **Sistema de Gestão para Projetos Sustentáveis**  
-- 🔗 **Aplicações Full Stack** (React + Spring Boot + PostgreSQL)  
+
 
 ---
 
@@ -51,9 +47,9 @@ Meu objetivo é **criar soluções inovadoras** que unam tecnologia e impacto po
 
 ## 📫 Vamos nos conectar!
 - 💼 [LinkedIn](https://linkedin.com)  
-- 📧 **seuemail@dominio.com**  
+- 📧 **franciane.leitee@gmail.com**  
 - 🐙 [GitHub](https://github.com/Franciane-sl)  
-- 🌐 Facebook *(opcional)*  
+- 🌐 [Facebook] (https://www.facebook.com/franciane.schierl/) 
 
 ---
 
