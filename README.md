@@ -44,8 +44,8 @@ Meu objetivo é **criar soluções inovadoras** que unam tecnologia e impacto po
 ---
 
 ## 📈 Estatísticas do GitHub
-![Franciane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciane-sl&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciane-sl&layout=compact&theme=tokyonight)
+![Franciane's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciane-sl&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciane-sl&layout=compact&theme=tokyonight)
 
 ---
 
