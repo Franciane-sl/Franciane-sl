@@ -46,10 +46,10 @@ Meu objetivo é **criar soluções inovadoras** que unam tecnologia e impacto po
 ---
 
 ## 📫 Vamos nos conectar!
-- 💼 [LinkedIn](https://linkedin.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/francianeschier/)  
 - 📧 **franciane.leitee@gmail.com**  
 - 🐙 [GitHub](https://github.com/Franciane-sl)  
-- 🌐 [Facebook] (https://www.facebook.com/franciane.schierl/) 
+- 🌐 [Facebook](https://www.facebook.com/franciane.schierl/) 
 
 ---
 
