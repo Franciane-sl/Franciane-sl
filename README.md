@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Franciane Schier
 
-Desenvolvedora **Full Stack em formação** pelo **Senai Santa Catarina**, com foco em **Back-End, Front-End e Integração de Sistemas**.  
+Desenvolvedora Full Stack , com foco em **Back-End, Front-End e Integração de Sistemas**.  
 
 Com uma base sólida em **Java, Spring Boot, PostgreSQL e MySQL**, e experiência crescente em **Front-End com HTML, CSS, JavaScript e React**, estou preparada para desenvolver **aplicações completas, escaláveis e eficientes**.  
 
