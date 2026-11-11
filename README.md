@@ -46,18 +46,6 @@ Repositórios organizados por desenvolvimento web, programação, análise de da
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciane-sl&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciane-sl&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## Contato
 
 - **LinkedIn:** [Franciane Schier](https://www.linkedin.com/in/francianeschier/)
