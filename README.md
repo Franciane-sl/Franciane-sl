@@ -39,12 +39,27 @@ Busco desenvolver soluções tecnológicas que combinem boas práticas de Engenh
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## Projetos em Destaque
 
-## Projetos
+### DeliveryRisk AI — Sistema de Análise Preditiva de Atrasos em Entregas
 
-Repositórios organizados por desenvolvimento web, programação, análise de dados e Inteligência Artificial.
+Sistema de Machine Learning desenvolvido para identificar o risco de atraso em entregas de pedidos de e-commerce, utilizando dados históricos do mercado brasileiro.
 
----
+O projeto implementa um fluxo completo de Ciência de Dados e desenvolvimento de software, abrangendo análise exploratória, preparação e integração de dados, engenharia de atributos, treinamento e avaliação de modelos preditivos, disponibilização de previsões por API REST e interface web interativa.
+
+**Principais implementações:**
+- Análise e preparação de dados utilizando Pandas e NumPy.
+- Treinamento e avaliação de modelos de Machine Learning com Scikit-learn.
+- Implementação de pipeline preditivo com Random Forest.
+- Desenvolvimento de API REST com FastAPI e Pydantic.
+- Interface web interativa desenvolvida com Streamlit.
+- Persistência do histórico de previsões com SQLite.
+- Testes automatizados com Pytest.
+
+**Tecnologias:** Python, Pandas, NumPy, Scikit-learn, FastAPI, Streamlit, SQLite, Pytest e Joblib.
+
+**Repositório:** [Acessar DeliveryRisk AI](https://github.com/Franciane-sl/DeliveryRisk_AI)
+
 
 ## Contato
 
