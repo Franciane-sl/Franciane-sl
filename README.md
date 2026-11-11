@@ -108,6 +108,27 @@ O projeto implementa um pipeline de aprendizado de máquina que contempla análi
 **Tecnologias:** Python, Pandas, NumPy, Scikit-learn, Imbalanced-learn, Matplotlib, Seaborn e Joblib.
 
 **Repositório:** [Acessar Predictive Maintenance](https://github.com/Franciane-sl/Predictive_maintenance)
+
+### Gerenciamento de Compensação de Carbono — Sistema Back-End com Java e Spring Boot
+
+Aplicação Back-End desenvolvida para gerenciar clientes, materiais e declarações de compensação de carbono, permitindo organizar e acompanhar informações relacionadas aos processos de compensação.
+
+O sistema utiliza Java e Spring Boot para implementar uma arquitetura em camadas, com operações CRUD, autenticação e controle de acesso baseado em papéis de usuário (Roles), além de um dashboard para visualização resumida dos dados.
+
+**Principais implementações:**
+- Desenvolvimento de APIs REST para gerenciamento de clientes.
+- Operações CRUD para materiais e declarações de compensação de carbono.
+- Associação de múltiplos materiais às declarações.
+- Implementação de autenticação e autorização com JWT.
+- Controle de acesso baseado em roles.
+- Organização da arquitetura com Controllers, Services e Repositories.
+- Utilização de DTOs para transferência de dados.
+- Dashboard para consulta resumida das informações.
+
+**Tecnologias:** Java, Spring Boot, Spring Security, JWT, Maven e banco de dados relacional.
+
+**Repositório:** [Acessar Gerenciamento de Compensação de Carbono](https://github.com/Franciane-sl/GerenciamentoDeCompensacaoDeCarbono)
+
 ---
 
 ## Contato
