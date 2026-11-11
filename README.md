@@ -39,6 +39,8 @@ Busco desenvolver soluções tecnológicas que combinem boas práticas de Engenh
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 ## Projetos em Destaque
 
 ### DeliveryRisk AI — Sistema de Análise Preditiva de Atrasos em Entregas
@@ -60,6 +62,31 @@ O projeto implementa um fluxo completo de Ciência de Dados e desenvolvimento de
 
 **Repositório:** [Acessar DeliveryRisk AI](https://github.com/Franciane-sl/DeliveryRisk_AI)
 
+### MNIST Classification — Classificação de Dígitos Manuscritos
+
+Projeto de Machine Learning desenvolvido para classificação multiclasse de dígitos manuscritos utilizando o dataset MNIST. O trabalho contempla a construção de um pipeline completo de aprendizado de máquina, desde a análise exploratória e pré-processamento dos dados até o treinamento, comparação e avaliação de diferentes algoritmos de classificação.
+
+Foram implementados e comparados três modelos: **K-Nearest Neighbors (KNN), Random Forest e Multi-Layer Perceptron (MLP)**, com experimentos de ajuste de hiperparâmetros, análise de métricas, matrizes de confusão e custo computacional.
+
+O projeto também explora aspectos de robustez e generalização, incluindo experimentos com classes ocultadas (*Class Masking*), detecção de limitações em cenários fora da distribuição (*Out-of-Distribution — OOD*) e classificação de imagens manuscritas próprias.
+
+**Principais implementações:**
+- Análise exploratória e visualização de dados.
+- Pré-processamento, normalização e divisão estratificada dos dados.
+- Implementação e comparação de KNN, Random Forest e MLP.
+- Ajuste de hiperparâmetros e avaliação com métricas de classificação.
+- Análise de matrizes de confusão e custo computacional.
+- Experimentos de Class Masking e generalização OOD.
+- Testes com imagens manuscritas próprias.
+- Organização modular do código e reprodutibilidade dos experimentos.
+
+**Resultados:** KNN alcançou 97,21% de acurácia no conjunto de teste, sendo o melhor resultado preditivo entre os três modelos avaliados. Os experimentos adicionais evidenciaram limitações de generalização em dados diferentes dos utilizados no treinamento.
+
+**Tecnologias:** Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Pillow, Joblib e Jupyter Notebook.
+
+**Repositório:** [Acessar MNIST Classification](https://github.com/Franciane-sl/MNIST_Classification)
+
+---
 
 ## Contato
 
