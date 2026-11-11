@@ -86,6 +86,28 @@ O projeto também explora aspectos de robustez e generalização, incluindo expe
 
 **Repositório:** [Acessar MNIST Classification](https://github.com/Franciane-sl/MNIST_Classification)
 
+### Predictive Maintenance — Manutenção Preditiva com Machine Learning
+
+Projeto de Machine Learning desenvolvido para identificar e prever possíveis falhas em equipamentos industriais a partir de dados operacionais e informações de sensores.
+
+O projeto implementa um pipeline de aprendizado de máquina que contempla análise exploratória, tratamento e preparação de dados, engenharia de atributos (*Feature Engineering*) e balanceamento de classes com SMOTE. Foram desenvolvidos e comparados diferentes algoritmos de classificação para identificar o modelo com melhor desempenho na previsão de falhas.
+
+**Principais implementações:**
+- Análise exploratória e tratamento de dados com Pandas e NumPy.
+- Engenharia de atributos para criação de novas variáveis preditivas.
+- Preparação e transformação de variáveis categóricas.
+- Balanceamento de classes utilizando SMOTE.
+- Normalização de dados com StandardScaler.
+- Implementação e comparação dos algoritmos KNN e Árvore de Decisão.
+- Ajuste de hiperparâmetros e análise de overfitting.
+- Avaliação de desempenho e prevenção de Data Leakage.
+- Persistência do modelo treinado com Joblib.
+
+**Resultados:** a Árvore de Decisão apresentou o melhor desempenho nos experimentos, alcançando **94,8% de acurácia** no conjunto de teste.
+
+**Tecnologias:** Python, Pandas, NumPy, Scikit-learn, Imbalanced-learn, Matplotlib, Seaborn e Joblib.
+
+**Repositório:** [Acessar Predictive Maintenance](https://github.com/Franciane-sl/Predictive_maintenance)
 ---
 
 ## Contato
